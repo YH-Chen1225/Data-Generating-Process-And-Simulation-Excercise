@@ -1,2 +1,2 @@
 # Simulations-and-Algorithms-Practice
-![image](Question.pdf)
+![image](Question-1.jpg)
